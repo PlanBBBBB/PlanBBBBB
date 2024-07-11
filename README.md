@@ -1,5 +1,4 @@
-<img align="right" src="../assets/aaa/@PlanBBBBB.svg+xml">
-
+<img align="right" src="https://count.getloli.com/get/@:PlanBBBBB?theme=rule34">
 ## 后端工程师—PLANB👋
 
 热爱后端、热爱技术；实习经验半年；乐于阅读，分享技术文章。
@@ -25,13 +24,4 @@
 
 ### 开源项目
 
-[![](../assets/aaa/17207042325274.svg+xml)](https://github.com/PlanBBBBB/ADRecommend)
-<br><br><br>
-
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=PlanBBBBB&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](../assets/aaa/api.svg+xml)
-
-![Top Langs](../assets/aaa/17207042318651.svg+xml)
-![](../assets/aaa/17207042318652.svg+xml)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=PlanBBBBB&repo=ADRecommend)](https://github.com/PlanBBBBB/ADRecommend)
