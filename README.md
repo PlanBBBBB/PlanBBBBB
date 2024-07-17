@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
-   <a href="https://planbbbbb.github.io/"><code><img height="20" width="50" src="./images/blog.png"></code></a>：个人博客：分享和学习技术，文章50+，总访客数800+
+   <a href="https://planbbbbb.github.io/"><code><img height="20" width="50" src="./images/blog.png"></code></a>：个人博客：分享和学习技术，文章50+，总访客900+
 
 ### **技术栈:**
 
