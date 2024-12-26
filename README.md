@@ -2,14 +2,14 @@
 
 ## 后端工程师—PLANB👋
 
-热爱后端、热爱技术；实习经验半年；乐于阅读，分享技术文章。
+热爱后端、热爱技术；实习经验一年；乐于阅读，分享技术文章。
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
-   <a href="https://planbbbbb.github.io/"><code><img height="20" width="50" src="./images/blog.png"></code></a>：个人博客：分享和学习技术，文章50+，总访客2700+，总访问量6000+
+   <a href="https://planbbbbb.github.io/"><code><img height="20" width="50" src="./images/blog.png"></code></a>：个人博客：分享和学习技术，文章50+，总访客2900+，总访问量6000+
 
 ### **技术栈:**
 
