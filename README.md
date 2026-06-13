@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:PlanBBBBB?theme=rule34">
 
-## 软件开发工程师—PLANB👋
+## 软件开发工程师—PlanB👋
 
 2 年软件开发经验，专注于构建稳定、高效的系统，注重代码质量与长期价值，追求系统性能、可维护性与工程规范。
 
