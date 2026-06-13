@@ -25,4 +25,4 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=PlanBBBBB&repo=ADRecommend)](https://github.com/PlanBBBBB/ADRecommend)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=PlanBBBBB&repo=TraeBlog)](https://github.com/PlanBBBBB/TraeBlog)
