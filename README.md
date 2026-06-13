@@ -1,16 +1,12 @@
 <img align="right" src="https://count.getloli.com/get/@:PlanBBBBB?theme=rule34">
 
-## 后端工程师—PLANB👋
+## 软件开发工程师—PLANB👋
 
-热爱后端、热爱技术；实习经验一年；乐于阅读，分享技术文章。
+2 年软件开发经验，专注于构建稳定、高效的系统，注重代码质量与长期价值，追求系统性能、可维护性与工程规范。
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
-   <a href="https://planbbbbb.github.io/"><code><img height="20" width="50" src="./images/blog.png"></code></a>：个人博客：分享和学习技术，文章50+，总访客5000+，总访问量8000+
-
+   <a href="https://planbbbbb.github.io/"><code><img height="20" width="50" src="./images/blog.png"></code></a>：个人博客：记录学习过程中的项目实践与技术沉淀
 ### **技术栈:**
 
 <a href="https://www.java.com/zh-CN/"><code><img height="20" src="./images/java.png"></code></a>
