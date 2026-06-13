@@ -6,6 +6,8 @@
 
 ### **社交主页：**
 
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
    <a href="https://planbbbbb.github.io/"><code><img height="20" width="50" src="./images/blog.png"></code></a>：个人博客：记录学习过程中的项目实践与技术沉淀
 ### **技术栈:**
 
